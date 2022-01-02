@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="creeper-face.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="359.86201"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1312"
+     inkscape:window-height="969"
+     inkscape:window-x="101"
+     inkscape:window-y="53"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="0,297"
+       orientation="0,793.70079"
+       id="guide432" />
+    <sodipodi:guide
+       position="210,297"
+       orientation="1122.5197,0"
+       id="guide434" />
+    <sodipodi:guide
+       position="210,0"
+       orientation="0,-793.70079"
+       id="guide436" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-1122.5197,0"
+       id="guide438" />
+    <sodipodi:guide
+       position="-40.06815,201.1669"
+       orientation="0,-1"
+       id="guide440" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect346"
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.325387"
+       d="M 0,7.792882e-7 H 32 V 32.000001 H 0 Z" />
+    <path
+       id="rect346-3"
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:1.73922"
+       d="M 120.94531 120.94531 L 120.94531 181.41797 L 60.472656 181.41797 L 60.472656 302.36133 L 60.472656 362.83398 L 120.94531 362.83398 L 120.94531 302.36133 L 241.89062 302.36133 L 241.89062 362.83398 L 302.36133 362.83398 L 302.36133 302.36133 L 302.36133 181.41797 L 241.89062 181.41797 L 241.89062 120.94531 L 120.94531 120.94531 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="rect430"
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.325387"
+       d="M 64,7.792882e-7 H 96 V 32.000001 H 64 Z" />
+  </g>
+</svg>
