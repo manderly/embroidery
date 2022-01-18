@@ -2,7 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   sodipodi:docname="minecraft-creeper-face.svg"
+   sodipodi:docname="minecraft-creeper-face-with-borders.svg"
    inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
    id="svg8"
    version="1.1"
@@ -67,15 +67,15 @@
      inkscape:pageopacity="0.78431373"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3906924"
-     inkscape:cx="650.39542"
-     inkscape:cy="600.06078"
-     inkscape:document-units="mm"
+     inkscape:cx="574.89348"
+     inkscape:cy="661.18144"
+     inkscape:document-units="cm"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1462"
      inkscape:window-height="969"
      inkscape:window-x="82"
-     inkscape:window-y="64"
+     inkscape:window-y="36"
      inkscape:window-maximized="0"
      objecttolerance="3"
      gridtolerance="3"
@@ -144,7 +144,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-9.3905029,72.390505)"
-     style="display:none;opacity:0.5"
+     style="display:inline;opacity:0.5"
      sodipodi:insensitive="true">
     <circle
        id="path3704-5-2"
@@ -223,20 +223,20 @@
      inkscape:label="DESIGN LAYER"
      transform="translate(-9.3905,19.3905)">
     <path
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.162693"
-       d="m 165.54298,134.60951 h 16 v 16 h -16 z"
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.15013"
+       d="m 165.6579,135.3439 h 15.02894 v 14.5046 H 165.6579 Z"
        id="path1291"
        inkstitch:angle="90"
        inkscape:label="left_eye" />
     <path
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.162693"
-       d="m 181.54293,150.60951 v 7.60003 h -8.00003 v 15.1998 7.60003 h 8.00003 v -7.60003 h 16.00005 v 7.60003 h 7.99977 v -7.60003 -15.1998 h -7.99977 v -7.60003 z"
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.158506"
+       d="m 181.44453,150.98338 v 7.29762 h -7.90827 v 14.59499 7.29761 h 7.90827 v -7.29761 h 15.81654 v 7.29761 h 7.90801 V 172.87599 158.281 h -7.90801 v -7.29762 z"
        id="path1289"
        inkscape:label="mouth"
        inkstitch:angle="90" />
     <path
-       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.162693"
-       d="m 197.54298,134.60951 h 16 v 16 h -16 z"
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.15277"
+       d="m 198.0239,135.3389 h 15.31218 v 14.74143 H 198.0239 Z"
        id="path983"
        inkstitch:angle="90"
        inkscape:label="right_eye" />
@@ -246,7 +246,7 @@
        transform="matrix(0.264583,0,0,0.264583,0.153569,-8.35583)">
       <path
          id="command_connector1"
-         d="m 601.84115,552.08326 23.25347,8.04034"
+         d="m 601.84115,552.08326 23.68782,8.3879"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
          inkscape:connection-start="#command_use1"
          inkscape:connection-end="#path1291"
@@ -268,7 +268,7 @@
        transform="matrix(0.264583,0,0,0.264583,39.2602,-11.8753)">
       <path
          id="command_connector2"
-         d="m 560.15886,582.16222 -22.39649,0.7311"
+         d="m 560.15886,582.16222 -25.6323,0.79117"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
          inkscape:connection-start="#command_use2"
          inkscape:connection-end="#path1291"
@@ -290,7 +290,7 @@
        transform="matrix(0.264583,0,0,0.264583,-0.883159,-8.54608)">
       <path
          id="command_connector3"
-         d="m 729.85604,552.08326 20.10197,7.67295"
+         d="m 729.85604,552.08326 21.91962,8.44463"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
          inkscape:connection-start="#command_use3"
          inkscape:connection-end="#path983"
@@ -312,7 +312,7 @@
        transform="matrix(0.264583,0,0,0.264583,42.114,-7.40456)">
       <path
          id="command_connector4"
-         d="m 681.10374,582.16222 -33.18237,-7.94217"
+         d="m 681.10374,582.16222 -33.96435,-7.99197"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
          inkscape:connection-start="#command_use4"
          inkscape:connection-end="#path983"
@@ -334,7 +334,7 @@
        transform="matrix(0.264583,0,0,0.264583,-12.2983,6.10339)">
       <path
          id="command_connector5"
-         d="m 663.09658,612.55567 39.29624,-3.52182"
+         d="m 663.09658,612.55567 39.27115,-3.89119"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
          inkscape:connection-start="#command_use5"
          inkscape:connection-end="#path1289"
@@ -356,7 +356,7 @@
        transform="matrix(0.264583,0,0,0.264583,53.3389,0.205553)">
       <path
          id="command_connector6"
-         d="m 620.69377,641.35918 -45.4344,-6.62981"
+         d="m 620.69377,641.35918 -46.8467,-7.17332"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
          inkscape:connection-start="#command_use6"
          inkscape:connection-end="#path1289"
@@ -372,5 +372,23 @@
          y="641.24432"
          inkscape:label="command marker" />
     </g>
+    <path
+       style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#95e219;stroke-width:1.12681;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 165.6579,135.3439 h 15.31218 v 14.74143 H 165.6579 Z"
+       id="path3518"
+       inkstitch:angle="90"
+       inkscape:label="left_eye border" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#95e219;stroke-width:1.12681;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 198.0239,135.3389 h 15.31218 v 14.74143 H 198.0239 Z"
+       id="path3518-7"
+       inkstitch:angle="90"
+       inkscape:label="left_eye border" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#e2c119;stroke-width:1.098;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 181.44453,150.98338 v 7.29762 h -7.90827 v 14.59499 7.29761 h 7.90827 v -7.29761 h 15.81654 v 7.29761 h 7.90801 V 172.87599 158.281 h -7.90801 v -7.29762 z"
+       id="path3705"
+       inkscape:label="mouth"
+       inkstitch:angle="90" />
   </g>
 </svg>
