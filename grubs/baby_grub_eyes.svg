@@ -67,15 +67,15 @@
      inkscape:pageopacity="0.78431373"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98336806"
-     inkscape:cx="724.55068"
-     inkscape:cy="712.34772"
-     inkscape:document-units="mm"
+     inkscape:cx="635.06232"
+     inkscape:cy="637.09615"
+     inkscape:document-units="in"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1674"
      inkscape:window-height="969"
-     inkscape:window-x="87"
-     inkscape:window-y="127"
+     inkscape:window-x="44"
+     inkscape:window-y="43"
      inkscape:window-maximized="0"
      objecttolerance="3"
      gridtolerance="3"
@@ -89,7 +89,8 @@
      fit-margin-top="10"
      fit-margin-left="10"
      fit-margin-right="10"
-     fit-margin-bottom="10">
+     fit-margin-bottom="10"
+     showguides="true">
     <inkscape:grid
        type="xygrid"
        id="grid3702"
@@ -151,7 +152,7 @@
        cx="189.3905"
        cy="107.6095"
        r="49.952381"
-       style="opacity:0.335;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
+       style="display:inline;opacity:0.335;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
        sodipodi:insensitive="true"
        inkscape:label="100x100" />
     <circle
@@ -159,7 +160,7 @@
        cx="189.3905"
        cy="107.6095"
        r="69.933334"
-       style="opacity:0.335;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
+       style="display:none;opacity:0.335;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
        sodipodi:insensitive="true"
        inkscape:label="140x140" />
     <circle
@@ -167,7 +168,7 @@
        cx="189.3905"
        cy="107.6095"
        r="84.919044"
-       style="opacity:0.335;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
+       style="display:none;opacity:0.335;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
        sodipodi:insensitive="true"
        inkscape:label="170x170" />
     <circle
@@ -175,11 +176,11 @@
        cx="189.3905"
        cy="107.6095"
        r="99.904762"
-       style="opacity:0.335;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
+       style="display:none;opacity:0.335;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
        inkscape:label="200x200"
        sodipodi:insensitive="true" />
     <rect
-       style="opacity:0.335;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
+       style="display:none;opacity:0.335;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
        id="rect3742"
        width="319.6095"
        height="319.6095"
@@ -189,7 +190,7 @@
        sodipodi:insensitive="true"
        inkscape:label="320x320" />
     <g
-       style="clip-rule:evenodd;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:20.97;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;display:none;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:20.97;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        id="g845"
        transform="matrix(0,0.0056763,-0.0056763,0,341.03436,-359.15659)"
        inkscape:label="inkStitch-logo"
@@ -211,84 +212,90 @@
     </g>
     <path
        id="path1018"
-       style="fill:#999999;stroke:#b3b3b3;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:none;fill:#999999;stroke:#b3b3b3;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 192.92603,111.14502 -7.07107,-7.07106 m 7.07106,1e-5 -7.07106,7.07107"
        inkscape:connector-curvature="0"
        inkscape:label="default-origin"
        sodipodi:insensitive="true" />
   </g>
   <g
-     inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="DESIGN LAYER"
-     transform="translate(-9.3905, 19.3905)">
+     transform="translate(-9.3905,19.3905)"
+     inkscape:groupmode="layer">
     <circle
-       style="fill:none;stroke:#000000;stroke-width:2.5;stroke-opacity:1"
-       id="path921"
-       cx="111.4125"
-       cy="86.85717"
-       inkscape:label="baby grub eye outline L"
-       r="5.1999998" />
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20192;stroke-opacity:1"
        id="circle989"
-       cx="111.4125"
-       cy="86.85717"
-       inkscape:label="baby grub eye fill L"
-       r="5.1999998"
-       inkstitch:row_spacing_mm="0.20" />
+       cx="156.77905"
+       cy="128.27057"
+       inkscape:label="baby grub eye fill 1"
+       inkstitch:row_spacing_mm="0.20"
+       r="2.5" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.20154;stroke-opacity:1"
+       id="circle3371"
+       cx="156.77809"
+       cy="128.26962"
+       inkscape:label="baby grub eye outline 1"
+       inkstitch:row_spacing_mm="0.20"
+       rx="2.4992259"
+       ry="2.499228" />
     <circle
-       style="fill:none;stroke:#000000;stroke-width:2.5;stroke-opacity:1"
-       id="circle1117"
-       cx="268.09787"
-       cy="89.547752"
-       inkscape:label="baby grub eye outline R"
-       r="5.1999998" />
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20192;stroke-opacity:1"
        id="circle1119"
-       cx="268.09787"
-       cy="89.547752"
-       inkscape:label="baby grub eye fill R"
-       r="5.1999998"
-       inkstitch:row_spacing_mm="0.20" />
+       cx="220.82816"
+       cy="128.21393"
+       inkscape:label="baby grub eye fill 2"
+       inkstitch:row_spacing_mm="0.20"
+       r="2.5" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.20154;stroke-opacity:1"
+       id="circle3561"
+       cx="220.82719"
+       cy="128.21297"
+       inkscape:label="baby grub eye outline 2"
+       inkstitch:row_spacing_mm="0.20"
+       rx="2.4992259"
+       ry="2.499228" />
     <circle
-       style="fill:none;stroke:#000000;stroke-width:2.5;stroke-opacity:1"
-       id="circle1199"
-       cx="113.69553"
-       cy="221.93677"
-       inkscape:label="baby grub eye outline L"
-       r="5.1999998" />
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20192;stroke-opacity:1"
        id="circle1201"
-       cx="113.69553"
-       cy="221.93677"
-       inkscape:label="baby grub eye fill L"
-       r="5.1999998"
-       inkstitch:row_spacing_mm="0.20" />
+       cx="156.73076"
+       cy="186.76541"
+       inkscape:label="baby grub eye fill 3"
+       inkstitch:row_spacing_mm="0.20"
+       r="2.5" />
     <circle
-       style="fill:none;stroke:#000000;stroke-width:2.5;stroke-opacity:1"
-       id="circle1203"
-       cx="270.38092"
-       cy="224.62735"
-       inkscape:label="baby grub eye outline R"
-       r="5.1999998" />
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.20192;stroke-opacity:1"
+       id="circle3795"
+       cx="156.73076"
+       cy="186.76541"
+       inkscape:label="baby grub eye outline 3"
+       inkstitch:row_spacing_mm="0.20"
+       r="2.5" />
     <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20192;stroke-opacity:1"
        id="circle1205"
-       cx="270.38092"
-       cy="224.62735"
-       inkscape:label="baby grub eye fill R"
-       r="5.1999998"
-       inkstitch:row_spacing_mm="0.20" />
+       cx="220.85106"
+       cy="186.52011"
+       inkscape:label="baby grub eye fill 4"
+       inkstitch:row_spacing_mm="0.20"
+       r="2.5" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.20192;stroke-opacity:1"
+       id="circle3905"
+       cx="220.85106"
+       cy="186.52011"
+       inkscape:label="baby grub eye outline 4"
+       inkstitch:row_spacing_mm="0.20"
+       r="2.5" />
     <g
        id="command_group1"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583 0 0 0.264583 9.3905 -19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,57.45707,24.722911)">
       <path
          id="command_connector1"
-         d="m 372.28134,353.83393 8.03373,28.80185"
+         d="m 372.28134,353.83393 2.32912,28.11136"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
          inkscape:connection-start="#command_use1"
          inkscape:connection-end="#circle989"
@@ -307,10 +314,10 @@
     <g
        id="command_group2"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583 0 0 0.264583 9.3905 -19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,57.45707,24.722911)">
       <path
          id="command_connector2"
-         d="m 397.47661,449.88487 -7.18836,-29.23364"
+         d="M 397.47661,449.88487 378.72679,400.20181"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
          inkscape:connection-start="#command_use2"
          inkscape:connection-end="#circle989"
@@ -329,10 +336,10 @@
     <g
        id="command_group3"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583 0 0 0.264583 9.3905 -19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,-35.179204,21.975676)">
       <path
          id="command_connector3"
-         d="m 963.9465,364.1659 8.35369,28.69943"
+         d="m 963.9465,364.1659 2.72505,27.96079"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
          inkscape:connection-start="#command_use3"
          inkscape:connection-end="#circle1119"
@@ -351,10 +358,10 @@
     <g
        id="command_group4"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583 0 0 0.264583 9.3905 -19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,-35.179204,21.975676)">
       <path
          id="command_connector4"
-         d="m 985.29826,460.88286 -4.53849,-29.71922"
+         d="M 985.29826,460.88286 970.28979,410.58508"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
          inkscape:connection-start="#command_use4"
          inkscape:connection-end="#circle1119"
@@ -373,10 +380,10 @@
     <g
        id="command_group5"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583 0 0 0.264583 9.3905 -19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,55.654887,-51.332685)">
       <path
          id="command_connector5"
-         d="m 380.71752,864.43006 8.14956,28.76518"
+         d="m 380.71752,864.43006 0.95539,26.02693"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
          inkscape:connection-start="#command_use5"
          inkscape:connection-end="#circle1201"
@@ -395,10 +402,10 @@
     <g
        id="command_group6"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583 0 0 0.264583 9.3905 -19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,55.654887,-51.332685)">
       <path
          id="command_connector6"
-         d="m 399.49571,961.5111 -3.1864,-29.86457"
+         d="M 399.49571,961.5111 384.59792,908.9895"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
          inkscape:connection-start="#command_use6"
          inkscape:connection-end="#circle1201"
@@ -417,10 +424,10 @@
     <g
        id="command_group7"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583 0 0 0.264583 9.3905 -19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,-42.986777,-56.681149)">
       <path
          id="command_connector7"
-         d="m 986.16128,872.71345 0.15717,29.90697"
+         d="m 986.16128,872.71345 8.84182,37.2798"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
          inkscape:connection-start="#command_use7"
          inkscape:connection-end="#circle1205"
@@ -439,10 +446,10 @@
     <g
        id="command_group8"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583 0 0 0.264583 9.3905 -19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,-37.439361,-54.797741)">
       <path
          id="command_connector8"
-         d="m 987.98436,971.96605 -0.94492,-30.04921"
+         d="m 987.98436,971.96605 -9.9459,-50.62594"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
          inkscape:connection-start="#command_use8"
          inkscape:connection-end="#circle1205"
