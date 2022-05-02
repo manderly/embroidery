@@ -361,16 +361,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.78431373"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1842824"
-     inkscape:cx="650.328"
-     inkscape:cy="670.0141"
+     inkscape:zoom="0.5"
+     inkscape:cx="705"
+     inkscape:cy="671"
      inkscape:document-units="cm"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1314"
      inkscape:window-height="783"
-     inkscape:window-x="20"
-     inkscape:window-y="51"
+     inkscape:window-x="29"
+     inkscape:window-y="26"
      inkscape:window-maximized="0"
      objecttolerance="3"
      gridtolerance="3"
@@ -515,7 +515,7 @@
   <g
      id="layer2"
      inkscape:label="DESIGN LAYER"
-     transform="translate(-9.3905, 19.3905)">
+     transform="translate(-9.3905,19.3905)">
     <path
        id="ellipse136"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.7086;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -523,20 +523,20 @@
        d="m 160.67557,142.16156 c -7.33657,2e-5 -13.28398,5.92133 -13.28384,13.22552 1e-5,7.3041 5.94738,13.22525 13.28384,13.22526 7.33646,-1e-5 13.28383,-5.92115 13.28384,-13.22526 1.3e-4,-7.30419 -5.94728,-13.2255 -13.28384,-13.22552 z m -0.18095,9.86683 c 5.82479,4e-5 10.12811,0.1177 10.12816,5.94247 -5e-5,5.82479 -1.65238,9.29086 -7.47717,9.29091 -5.82489,10e-5 -7.0872,-2.21038 -7.08726,-8.03527 6e-5,-5.82489 -1.38861,-7.19821 4.43627,-7.19811 z"
        sodipodi:nodetypes="cccccccccc" />
     <path
+       id="path1549"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 173.95951,155.38695 a 13.283876,13.225286 0 0 1 -13.28387,13.22529 13.283876,13.225286 0 0 1 -13.28388,-13.22529 13.283876,13.225286 0 0 1 13.28388,-13.22528 13.283876,13.225286 0 0 1 13.28387,13.22528 z"
+       inkscape:label="sclera_outline_L" />
+    <path
        id="path9123"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.7086;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:label="sclera_fill_R"
        d="m 218.49893,142.15577 c 7.33656,2e-5 13.28397,5.92132 13.28384,13.22553 -2e-5,7.3041 -5.94739,13.22524 -13.28384,13.22525 -7.33646,-1e-5 -13.28384,-5.92115 -13.28385,-13.22525 -1.4e-4,-7.30421 5.94728,-13.22551 13.28385,-13.22553 z m -0.65622,9.02967 c -5.82477,5e-5 -8.39531,0.96065 -8.39536,6.78543 5e-5,5.82479 1.87296,8.44791 7.69774,8.44796 5.82488,9e-5 8.59359,-2.07086 8.59365,-7.89574 -6e-5,-5.82489 -2.07113,-7.33774 -7.89603,-7.33765 z"
        sodipodi:nodetypes="cccccccccc" />
     <path
-       id="path1549"
-       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.05468;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 173.95951,155.38695 a 13.283876,13.225286 0 0 1 -13.28387,13.22529 13.283876,13.225286 0 0 1 -13.28388,-13.22529 13.283876,13.225286 0 0 1 13.28388,-13.22528 13.283876,13.225286 0 0 1 13.28387,13.22528 z"
-       inkscape:label="sclera_outline_L" />
-    <path
        id="path9125"
-       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.05468;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 205.21499,155.38117 a 13.283876,13.225286 0 0 0 13.28386,13.22529 13.283876,13.225286 0 0 0 13.28389,-13.22529 13.283876,13.225286 0 0 0 -13.28389,-13.22529 13.283876,13.225286 0 0 0 -13.28386,13.22529 z"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.00000006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 204.96047,155.38117 a 13.5384,13.478688 0 0 0 13.53838,13.47869 13.5384,13.478688 0 0 0 13.53841,-13.47869 13.5384,13.478688 0 0 0 -13.53841,-13.47869 13.5384,13.478688 0 0 0 -13.53838,13.47869 z"
        inkscape:label="sclera_outline_R" />
     <circle
        id="path179"
@@ -550,7 +550,7 @@
        id="circle1589"
        cx="162.72694"
        cy="159.50558"
-       style="display:inline;fill:none;stroke:#6d4c2a;stroke-width:1.00000003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;stroke:#6d4c2a;stroke-width:2.00000006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:label="iris_outline_L"
        r="8.6864929" />
     <ellipse
@@ -567,7 +567,7 @@
        id="circle9129"
        cx="-217.35446"
        cy="159.2963"
-       style="display:inline;fill:none;stroke:#6d4c2a;stroke-width:1.00000003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;stroke:#6d4c2a;stroke-width:2.00000006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:label="iris_outline_R"
        r="9.0186968"
        transform="scale(-1,1)" />
@@ -730,7 +730,7 @@
     <g
        id="command_group1"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583 0 0 0.264583 9.3905 -19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)">
       <path
          id="command_connector1"
          d="m 571.59866,580.66426 0.0705,29.92711"
@@ -752,7 +752,7 @@
     <g
        id="command_group2"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583 0 0 0.264583 9.3905 -19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)">
       <path
          id="command_connector2"
          d="m 574.45122,740.57958 -1.00058,-30.0437"
@@ -774,7 +774,7 @@
     <g
        id="command_group3"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583 0 0 0.264583 9.3905 -19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)">
       <path
          id="command_connector3"
          d="m 788.82736,580.64241 0.56366,29.93555"
@@ -796,7 +796,7 @@
     <g
        id="command_group4"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583 0 0 0.264583 8.86133 23.2074)">
+       transform="matrix(0.264583,0,0,0.264583,8.86133,23.2074)">
       <path
          id="command_connector4"
          d="m 788.80095,580.72136 1.3585,-31.22654"
@@ -818,7 +818,7 @@
     <g
        id="command_group5"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583 0 0 0.264583 -10.9374 -2.72175)">
+       transform="matrix(0.264583,0,0,0.264583,-10.9374,-2.72175)">
       <path
          id="command_connector5"
          d="m 553.6918,530.02674 37.84696,-6.76663"
@@ -840,7 +840,7 @@
     <g
        id="command_group6"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583 0 0 0.264583 27.1176 -26.0051)">
+       transform="matrix(0.264583,0,0,0.264583,27.1176,-26.0051)">
       <path
          id="command_connector6"
          d="M 584.78777,610.17613 559.16909,607.5172"
@@ -862,7 +862,7 @@
     <g
        id="command_group7"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583 0 0 0.264583 -9.30921 -4.57383)">
+       transform="matrix(0.264583,0,0,0.264583,-9.30921,-4.57383)">
       <path
          id="command_connector7"
          d="m 786.62124,531.53266 76.15538,-10.05467"
@@ -884,7 +884,7 @@
     <g
        id="command_group8"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583 0 0 0.264583 50.6655 -9.29852)">
+       transform="matrix(0.264583,0,0,0.264583,50.6655,-9.29852)">
       <path
          id="command_connector8"
          d="m 716.66985,551.523 -28.5811,-4.32351"
@@ -906,7 +906,7 @@
     <g
        id="command_group9"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583 0 0 0.264583 -5.16158 -14.3634)">
+       transform="matrix(0.264583,0,0,0.264583,-5.16158,-14.3634)">
       <path
          id="command_connector9"
          d="m 672.75698,693.02479 14.78812,5.8206"
@@ -928,7 +928,7 @@
     <g
        id="command_group10"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583 0 0 0.264583 38.4947 -13.3051)">
+       transform="matrix(0.264583,0,0,0.264583,38.4947,-13.3051)">
       <path
          id="command_connector10"
          d="m 641.17076,687.1173 -44.95327,18.53104"
@@ -950,7 +950,7 @@
     <g
        id="command_group11"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583 0 0 0.264583 9.3905 -19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)">
       <path
          id="command_connector11"
          d="m 569.88638,614.11329 4.60511,29.59046"
@@ -972,7 +972,7 @@
     <g
        id="command_group12"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583 0 0 0.264583 9.3905 -19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)">
       <path
          id="command_connector12"
          d="M 582.68211,738.98992 581.1794,708.9333"
@@ -994,7 +994,7 @@
     <g
        id="command_group13"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583 0 0 0.264583 9.3905 -19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)">
       <path
          id="command_connector13"
          d="m 778.83639,611.73463 3.35265,29.74687"
@@ -1016,7 +1016,7 @@
     <g
        id="command_group14"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583 0 0 0.264583 9.3905 -19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)">
       <path
          id="command_connector14"
          d="m 787.59215,739.50994 -0.74346,-30.08147"

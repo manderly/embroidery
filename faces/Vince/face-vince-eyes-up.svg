@@ -16,7 +16,8 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:inkstitch="http://inkstitch.org/namespace">
   <title
      id="title1023">inkStitch - Embroidery Hoops Template</title>
   <defs
@@ -244,8 +245,8 @@
      inkscape:pageopacity="0.78431373"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="662.5"
-     inkscape:cy="667.75"
+     inkscape:cx="649"
+     inkscape:cy="694.75"
      inkscape:document-units="cm"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -397,43 +398,139 @@
   <g
      id="layer2"
      inkscape:label="DESIGN LAYER"
-     transform="translate(-9.3905,19.3905)">
+     transform="translate(-9.3905, 19.3905)">
     <path
        id="ellipse136"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.4577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:label="sclera_fill_L"
        d="m 571.78516,610.58984 c -27.72877,8e-5 -50.20561,22.37995 -50.20508,49.98633 4e-5,27.60605 22.47672,49.98629 50.20508,49.98633 7.64703,-10e-6 14.8938,-1.7056 21.38086,-4.75 a 36.500002,33.999999 0 0 0 14.50195,-10.2793 c 8.85988,-9.01339 14.3242,-21.34933 14.32422,-34.95703 4.9e-4,-27.60638 -22.4783,-49.98625 -50.20703,-49.98633 z m 6.7539,6.22266 a 32.830838,32.830838 0 0 1 32.83203,32.83008 32.830838,32.830838 0 0 1 -32.83203,32.83008 32.830838,32.830838 0 0 1 -32.83008,-32.83008 32.830838,32.830838 0 0 1 32.83008,-32.83008 z"
-       transform="matrix(0.26458334,0,0,0.26458334,9.3905,-19.3905)" />
+       transform="matrix(0.264583 0 0 0.264583 9.3905 -19.3905)" />
+    <g
+       id="command_group2"
+       inkscape:label="Ink/Stitch Command: Fill stitch ending position"
+       transform="matrix(0.264583,0,0,0.264583,11.242583,28.89596)">
+      <path
+         id="command_connector2"
+         d="m 570.25456,580.74767 -2.80977,-52.75448"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use2620"
+         inkscape:connection-end="#ellipse136"
+         inkscape:connector-type="polyline"
+         inkscape:label="connector"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use2620"
+         xlink:href="#inkstitch_fill_end"
+         height="100%"
+         width="100%"
+         x="570.27838"
+         y="580.63281"
+         inkscape:label="command marker" />
+    </g>
+    <g
+       id="command_group1"
+       inkscape:label="Ink/Stitch Command: Fill stitch starting position"
+       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)"
+       style="display:inline">
+      <path
+         id="command_connector1"
+         d="m 570.28097,580.66871 0.56377,29.92973"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use89"
+         inkscape:connection-end="#ellipse136"
+         inkscape:connector-type="polyline"
+         inkscape:label="connector"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use89"
+         xlink:href="#inkstitch_fill_start"
+         height="100%"
+         width="100%"
+         x="570.27838"
+         y="580.63281"
+         inkscape:label="command marker" />
+    </g>
     <path
        id="path1549"
-       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.05468;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.00000006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 173.95951,155.38695 a 13.283876,13.225286 0 0 1 -13.28387,13.22529 13.283876,13.225286 0 0 1 -13.28388,-13.22529 13.283876,13.225286 0 0 1 13.28388,-13.22528 13.283876,13.225286 0 0 1 13.28387,13.22528 z"
-       inkscape:label="sclera_outline_L" />
+       inkscape:label="sclera_outline_L"
+       sodipodi:insensitive="true" />
     <path
        id="path9123"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.4577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:label="sclera_fill_R"
        d="m 790.33008,610.56836 c -27.72877,7e-5 -50.20561,22.37987 -50.20508,49.98633 4e-5,27.60604 22.47673,49.98433 50.20508,49.98437 27.72831,-4e-5 50.20695,-22.37833 50.20703,-49.98437 4.9e-4,-27.60646 -22.4783,-49.98626 -50.20703,-49.98633 z m -5.32422,4.19726 a 34.086412,34.086412 0 0 1 34.08594,34.08594 34.086412,34.086412 0 0 1 -34.08594,34.08594 34.086412,34.086412 0 0 1 -34.08594,-34.08594 34.086412,34.086412 0 0 1 34.08594,-34.08594 z"
-       transform="matrix(0.26458334,0,0,0.26458334,9.3905,-19.3905)" />
+       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)"
+       sodipodi:insensitive="true" />
+    <g
+       id="command_group22"
+       inkscape:label="Ink/Stitch Command: Fill stitch ending position"
+       transform="matrix(0.264583 0 0 0.264583 9.3905 -10.3923)"
+       style="display:inline">
+      <path
+         id="command_connector22"
+         d="M 798.25615,740.22496 793.8075,676.41205"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use4349"
+         inkscape:connection-end="#path9123"
+         inkscape:connector-type="polyline"
+         inkscape:label="connector"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use4349"
+         xlink:href="#inkstitch_fill_end"
+         height="100%"
+         width="100%"
+         x="798.27997"
+         y="740.11011"
+         inkscape:label="command marker" />
+    </g>
+    <g
+       id="command_group21"
+       inkscape:label="Ink/Stitch Command: Fill stitch starting position"
+       transform="matrix(0.264583 0 0 0.264583 9.3905 -19.3905)"
+       style="display:inline">
+      <path
+         id="command_connector21"
+         d="m 788.41397,580.66206 0.71797,29.92026"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
+         inkscape:connection-start="#command_use4263"
+         inkscape:connection-end="#path9123"
+         inkscape:connector-type="polyline"
+         inkscape:label="connector"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use4263"
+         xlink:href="#inkstitch_fill_start"
+         height="100%"
+         width="100%"
+         x="788.41138"
+         y="580.62616"
+         inkscape:label="command marker" />
+    </g>
     <path
        id="path9125"
-       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.05468;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.00000006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 205.21499,155.38117 a 13.283876,13.225286 0 0 0 13.28386,13.22529 13.283876,13.225286 0 0 0 13.28389,-13.22529 13.283876,13.225286 0 0 0 -13.28389,-13.22529 13.283876,13.225286 0 0 0 -13.28386,13.22529 z"
-       inkscape:label="sclera_outline_R" />
+       inkscape:label="sclera_outline_R"
+       sodipodi:insensitive="true" />
     <circle
        id="path179"
        cx="162.46236"
        cy="152.49413"
        style="display:inline;fill:#d5e5ff;stroke-width:0.151529"
        inkscape:label="iris_fill_L"
-       r="8.6864929" />
+       r="8.6864929"
+       sodipodi:insensitive="true" />
     <circle
        id="circle1589"
        cx="162.46236"
        cy="152.49413"
-       style="display:inline;fill:none;stroke:#ff003e;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;stroke:#d5e5ff;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:label="iris_outline_L"
-       r="8.6864929" />
+       r="8.6864929"
+       sodipodi:insensitive="true" />
     <circle
        id="circle9127"
        cx="-217.08987"
@@ -441,56 +538,65 @@
        style="display:inline;fill:#d5e5ff;stroke-width:0.157325"
        inkscape:label="iris_fill_R"
        r="9.0186968"
-       transform="scale(-1,1)" />
+       transform="scale(-1,1)"
+       sodipodi:insensitive="true" />
     <circle
        id="circle9129"
        cx="-217.08987"
        cy="152.28484"
-       style="display:inline;fill:none;stroke:#ff003e;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;stroke:#d5e5ff;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:label="iris_outline_R"
        r="9.0186968"
-       transform="scale(-1,1)" />
+       transform="scale(-1,1)"
+       sodipodi:insensitive="true" />
     <path
        id="path851"
        style="display:inline;fill:#ff2a2a;stroke:none;stroke-width:1.19307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 176.89928,170.02228 c -1.16933,0.0231 3.94137,12.08559 13.87734,11.6628 10.59838,0.45098 15.70681,-13.30376 13.55946,-11.49988 -2.14735,1.80389 -13.55946,1.80401 -13.55946,1.80401 0,0 -11.41209,-1.2e-4 -13.55946,-1.80401 -0.13421,-0.11274 -0.23992,-0.16446 -0.31788,-0.16292 z"
-       inkscape:label="mouth_fill" />
+       inkscape:label="mouth_fill"
+       sodipodi:insensitive="true" />
     <path
        style="fill:#b33434;fill-opacity:1;stroke:none;stroke-width:0.152343;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 190.41773,177.46818 c 0,0 -8.69129,1.24755 -6.74376,2.1704 7.65778,3.62863 13.64255,0.85266 13.64255,0.85266 0,0 -2.40295,-3.2556 -6.89879,-3.02306 z"
        id="path7235"
        inkscape:label="tongue_fill"
-       sodipodi:nodetypes="cscc" />
+       sodipodi:nodetypes="cscc"
+       sodipodi:insensitive="true" />
     <path
        style="fill:none;stroke:#b33434;stroke-width:1.17187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 183.57646,179.85529 c 0,0 5.85288,-5.8235 13.73297,0.27405"
        id="path7084"
        inkscape:label="tongue_outline"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       sodipodi:insensitive="true" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 185.92189,172.11968 0.15503,2.48047"
        id="path8512"
        inkscape:label="tooth1"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       sodipodi:insensitive="true" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 189.38136,172.11968 0.0776,2.63549"
        id="path8703"
        inkscape:label="tooth2"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       sodipodi:insensitive="true" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 193.02452,172.19719 -0.31005,2.55798"
        id="path8785"
        inkscape:label="tooth3"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       sodipodi:insensitive="true" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 196.09337,172.11968 0.0776,2.55797"
        id="path8787"
        inkscape:label="tooth4"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       sodipodi:insensitive="true" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.144332"
        id="path319"
@@ -498,7 +604,8 @@
        cy="150.32013"
        rx="3.0175679"
        ry="2.9296772"
-       inkscape:label="eyelight_L" />
+       inkscape:label="eyelight_L"
+       sodipodi:insensitive="true" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:1.05468;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse5489"
@@ -506,7 +613,8 @@
        cy="150.50537"
        rx="2.7158113"
        ry="2.6367095"
-       inkscape:label="eyelight_outline_L" />
+       inkscape:label="eyelight_outline_L"
+       sodipodi:insensitive="true" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.129898"
        id="ellipse9131"
@@ -514,7 +622,8 @@
        cy="151.696"
        rx="2.7158113"
        ry="2.6367095"
-       inkscape:label="eyelight_R" />
+       inkscape:label="eyelight_R"
+       sodipodi:insensitive="true" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:1.05468;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse9133"
@@ -522,21 +631,24 @@
        cy="151.16612"
        rx="2.7158113"
        ry="2.6367095"
-       inkscape:label="eyelight_outline_R" />
+       inkscape:label="eyelight_outline_R"
+       sodipodi:insensitive="true" />
     <path
        style="fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:1.31835;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 169.98071,167.75461 c 0.27061,-0.11225 0.26246,-0.8196 0.26246,-0.8196 0,0 -0.51699,-0.48161 -0.76069,-0.38031 l -0.004,-0.009 c -1.29661,0.53839 -4.72901,1.85655 -7.46126,1.85655 -2.71115,0 -8.13456,-1.60678 -10.20737,-2.25802 -0.38243,-0.12018 -0.95089,0.30386 -1.02037,0.35679 -0.006,0.007 -0.005,0.006 -0.005,0.006 0,0 -3e-5,-0.001 5e-5,0.008 0.0251,0.0873 0.23374,0.7619 0.63004,0.88638 2.08916,0.65638 7.63826,2.31864 10.60253,2.31864 2.94319,0 6.63912,-1.40605 7.96682,-1.95735 z"
        id="path5189"
        inkscape:path-effect="#path-effect5433"
        inkscape:original-d="m 170.24692,166.93331 c 0,0 -4.68222,2.12829 -8.22937,2.12829 -3.54714,0 -11.23262,-2.55394 -11.23262,-2.55394"
-       inkscape:label="eye_bottom" />
+       inkscape:label="eye_bottom"
+       sodipodi:insensitive="true" />
     <path
        style="fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:2.63671;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 170.77127,146.77225 c 0.39509,0.30999 1.10491,-0.27268 1.10491,-0.27268 0,0 0.51314,-0.78617 0.0202,-1.16894 l 0.005,-0.007 c -1.49529,-1.16697 -5.76708,-4.07596 -11.22445,-4.08521 -5.51231,-0.009 -8.41523,1.55803 -12.54207,5.75252 -2.74843,2.79452 -2.62355,4.19277 -2.62355,4.19277 0,0 1.26737,-0.18372 3.93922,-2.89832 3.84184,-3.90481 6.3968,-5.20949 11.22327,-5.20127 4.88137,0.008 8.74622,2.64423 10.09203,3.69455 z"
        id="path5074"
        inkscape:path-effect="#path-effect5431"
        inkscape:original-d="m 171.87861,146.50177 c 0,0 -4.74132,-4.32926 -11.20304,-4.34021 -6.46173,-0.011 -9.11027,2.23557 -15.16405,9.02244"
-       inkscape:label="eye_top" />
+       inkscape:label="eye_top"
+       sodipodi:insensitive="true" />
     <path
        style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.55;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 174.02009,136.38292 c 0.26205,0.0644 0.66082,-0.3784 0.97803,-0.80723 0.29738,-0.36104 0.51045,-0.76582 0.51045,-0.76582 0,0 0.0184,-0.45704 -0.059,-0.91871 -0.061,-0.53024 -0.18769,-1.11345 -0.44893,-1.18844 -2.52386,-0.67242 -9.22829,-2.44125 -13.00958,-3.26978 -1.37403,-0.30107 -2.62618,-0.53038 -3.7989,-0.64388 -2.45245,-0.23216 -4.82169,0.29868 -6.80758,1.31606 0,0 0,0 0,0 -2.43014,1.2778 -4.33975,2.9771 -5.53302,4.11364 -1.24507,1.18587 -1.94973,1.97039 -1.94973,1.97039 0,0 0.99069,-0.36756 2.5727,-1.00574 1.42817,-0.57611 3.87934,-1.59502 6.07136,-2.18796 0,1e-5 0,0 0,0 1.68028,-0.45626 3.47906,-0.59492 5.27938,-0.41553 0.97107,0.094 2.04385,0.28701 3.35061,0.57334 3.68685,0.80784 10.32844,2.55938 12.84426,3.22966 z"
@@ -544,27 +656,32 @@
        sodipodi:nodetypes="csc"
        inkscape:label="eyebrow_L"
        inkscape:original-d="m 175.51069,134.81044 c 0,0 -9.25968,-2.49461 -13.92727,-3.51734 -6.70198,-1.4685 -8.95563,-0.87368 -17.68164,4.89605"
-       inkscape:path-effect="#path-effect1398" />
+       inkscape:path-effect="#path-effect1398"
+       inkstitch:angle="90"
+       sodipodi:insensitive="true" />
     <path
        id="path2163"
        style="display:inline;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 177.33777,170.24153 c -1.16934,0.0231 3.50288,11.86634 13.43885,11.44355 10.59838,0.45098 15.70681,-13.30376 13.55946,-11.49988 -2.14735,1.80389 -13.55946,1.80401 -13.55946,1.80401 0,0 -11.4669,-0.10978 -13.61427,-1.91364 -0.1342,-0.11274 0.25337,0.16441 0.17542,0.16594 z"
        inkscape:label="mouth_outline"
-       sodipodi:nodetypes="scscsss" />
+       sodipodi:nodetypes="scscsss"
+       sodipodi:insensitive="true" />
     <path
        style="fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:1.31851;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 209.89797,166.55495 c -0.20842,-0.17048 -0.76066,0.38006 -0.76066,0.38006 0,0 -0.0349,0.78641 0.26276,0.81934 l -0.004,0.009 c 1.32802,0.5513 5.02483,1.95733 7.9687,1.95733 2.96495,0 8.51539,-1.66225 10.60506,-2.31863 0.21715,-0.0682 0.37953,-0.30746 0.48411,-0.52142 0.0828,-0.13772 0.14248,-0.35199 0.14616,-0.365 0,0 0,0 0,0 7e-5,-0.009 4e-5,-0.008 4e-5,-0.008 0,0 8e-4,0.001 -0.005,-0.007 0,0 0,0 0,0 -0.007,-0.005 -0.18962,-0.14775 -0.3317,-0.20899 -0.20825,-0.11256 -0.47564,-0.21482 -0.68883,-0.14785 -2.07333,0.65124 -7.49808,2.25803 -10.20994,2.25803 -2.73296,0 -6.16624,-1.31818 -7.46318,-1.85657 z"
        id="path9518"
        inkscape:path-effect="#path-effect9522"
        inkscape:original-d="m 209.13356,166.93331 c 0,0 4.68338,2.12829 8.2314,2.12829 3.54801,0 11.23537,-2.55394 11.23537,-2.55394"
-       inkscape:label="eye_bottom" />
+       inkscape:label="eye_bottom"
+       sodipodi:insensitive="true" />
     <path
        style="fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:4.22;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
        d="m 207.48395,145.33057 c -0.49307,0.38276 0.02,1.16901 0.02,1.16901 0,0 0.70977,0.58274 1.10496,0.27275 l 0.005,0.007 c 1.34617,-1.05032 5.21204,-3.68635 10.09476,-3.69462 4.8278,-0.008 7.38345,1.29652 11.22625,5.20135 2.6725,2.7146 3.93995,2.89825 3.93995,2.89825 0,0 0.12464,-1.39836 -2.62444,-4.19286 -4.12785,-4.19447 -7.03142,-5.76182 -12.54489,-5.75244 -5.45858,0.009 -9.73136,2.91819 -11.227,4.08515 z"
        id="path9524"
        inkscape:path-effect="#path-effect9528"
        inkscape:original-d="m 207.50148,146.50178 c 0,0 4.74249,-4.32927 11.2058,-4.34022 6.4633,-0.011 9.11249,2.23557 15.16777,9.02245"
-       inkscape:label="eye_top" />
+       inkscape:label="eye_top"
+       sodipodi:insensitive="true" />
     <path
        style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.55335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 203.96563,132.70896 c -0.50277,0.13395 -0.51005,2.0994 -0.51005,2.0994 0,0 0.99067,1.69738 1.48641,1.5653 l 0.002,0.008 c 2.51583,-0.67027 9.15742,-2.42181 12.84426,-3.22964 1.30676,-0.28633 2.37955,-0.47935 3.35062,-0.57334 1.80033,-0.1794 3.59911,-0.0407 5.27939,0.41553 0,0 0,0 0,0 2.19202,0.59293 4.64319,1.61184 6.07136,2.18795 1.58201,0.63817 2.5727,1.00573 2.5727,1.00573 0,0 -0.70466,-0.78452 -1.94973,-1.97039 -1.19328,-1.13654 -3.10289,-2.83584 -5.53303,-4.11363 0,0 0,0 0,0 -1.98589,-1.01738 -4.35513,-1.54821 -6.80758,-1.31605 -1.17273,0.1135 -2.42487,0.34281 -3.7989,0.64388 -3.78128,0.82852 -10.48572,2.59734 -13.00958,3.26976 z"
@@ -572,63 +689,22 @@
        sodipodi:nodetypes="csc"
        inkscape:label="eyebrow_R"
        inkscape:original-d="m 203.45346,134.80893 c 0,0 9.25969,-2.4946 13.92726,-3.51732 6.702,-1.4685 8.95564,-0.87369 17.68166,4.89603"
-       inkscape:path-effect="#path-effect9516" />
+       inkscape:path-effect="#path-effect9516"
+       inkstitch:angle="90"
+       sodipodi:insensitive="true" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 191.71941,155.79906 c 0,0 -6.87188,5.749 -9.89248,6.32583 -3.0206,0.57684 10.39313,6.20095 10.39313,6.20095"
        id="path11271"
-       inkscape:label="nose" />
-    <g
-       id="command_group1"
-       inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)">
-      <path
-         id="command_connector1"
-         d="m 571.59866,580.66426 0.0705,29.9265"
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
-         inkscape:connection-start="#command_use1"
-         inkscape:connection-end="#ellipse136"
-         inkscape:connector-type="polyline"
-         inkscape:label="connector"
-         inkscape:connector-curvature="0" />
-      <use
-         id="command_use1"
-         xlink:href="#inkstitch_fill_start"
-         height="100%"
-         width="100%"
-         x="571.59607"
-         y="580.62836"
-         inkscape:label="command marker" />
-    </g>
-    <g
-       id="command_group2"
-       inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)">
-      <path
-         id="command_connector2"
-         d="M 574.45122,740.57958 573.45068,710.5364"
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
-         inkscape:connection-start="#command_use2"
-         inkscape:connection-end="#ellipse136"
-         inkscape:connector-type="polyline"
-         inkscape:label="connector"
-         inkscape:connector-curvature="0" />
-      <use
-         id="command_use2"
-         xlink:href="#inkstitch_fill_end"
-         height="100%"
-         width="100%"
-         x="574.47504"
-         y="740.46472"
-         inkscape:label="command marker" />
-    </g>
+       inkscape:label="nose"
+       sodipodi:insensitive="true" />
     <g
        id="command_group3"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)">
+       transform="matrix(0.264583 0 0 0.264583 10.6802 -29.8415)">
       <path
          id="command_connector3"
-         d="m 788.82736,580.64241 0.56367,29.93532"
+         d="m 788.82736,580.64241 -1.96032,69.44522"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
          inkscape:connection-start="#command_use3"
          inkscape:connection-end="#path9123"
@@ -647,10 +723,10 @@
     <g
        id="command_group4"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583,0,0,0.264583,8.86133,23.2074)">
+       transform="matrix(0.264583 0 0 0.264583 8.86133 23.2074)">
       <path
          id="command_connector4"
-         d="m 788.80095,580.72136 1.35854,-31.22745"
+         d="m 788.80095,580.72136 1.35817,-31.22833"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:0.5"
          inkscape:connection-start="#command_use4"
          inkscape:connection-end="#path9123"
@@ -669,7 +745,7 @@
     <g
        id="command_group5"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583,0,0,0.264583,-10.9374,-2.72175)">
+       transform="matrix(0.264583 0 0 0.264583 -10.9374 -2.72175)">
       <path
          id="command_connector5"
          d="m 553.6918,530.02674 33.21855,-6.81288"
@@ -691,7 +767,7 @@
     <g
        id="command_group6"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583,0,0,0.264583,27.1176,-26.0051)">
+       transform="matrix(0.264583 0 0 0.264583 27.1176 -26.0051)">
       <path
          id="command_connector6"
          d="m 584.78777,610.17613 -23.93375,-3.10844"
@@ -713,7 +789,7 @@
     <g
        id="command_group7"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583,0,0,0.264583,-9.30921,-4.57383)">
+       transform="matrix(0.264583 0 0 0.264583 -9.30921 -4.57383)">
       <path
          id="command_connector7"
          d="m 786.62124,531.53266 18.51393,-3.17283"
@@ -735,7 +811,7 @@
     <g
        id="command_group8"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583,0,0,0.264583,50.6655,-9.29852)">
+       transform="matrix(0.264583 0 0 0.264583 50.6655 -9.29852)">
       <path
          id="command_connector8"
          d="m 716.66985,551.523 -22.24429,-4.30345"
@@ -757,7 +833,7 @@
     <g
        id="command_group9"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583,0,0,0.264583,-5.16158,-14.3634)">
+       transform="matrix(0.264583 0 0 0.264583 -5.16158 -14.3634)">
       <path
          id="command_connector9"
          d="m 672.75698,693.02479 14.76591,5.64667"
@@ -779,7 +855,7 @@
     <g
        id="command_group10"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583,0,0,0.264583,38.4947,-13.3051)">
+       transform="matrix(0.264583 0 0 0.264583 38.4947 -13.3051)">
       <path
          id="command_connector10"
          d="m 641.17076,687.1173 -23.01567,9.76328"
@@ -801,7 +877,9 @@
     <g
        id="command_group11"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)"
+       style="display:inline"
+       sodipodi:insensitive="true">
       <path
          id="command_connector11"
          d="m 569.88638,614.11329 0.8847,3.63241"
@@ -823,7 +901,8 @@
     <g
        id="command_group12"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)"
+       sodipodi:insensitive="true">
       <path
          id="command_connector12"
          d="m 582.68211,738.98992 -2.6217,-56.5512"
@@ -845,7 +924,8 @@
     <g
        id="command_group13"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)"
+       sodipodi:insensitive="true">
       <path
          id="command_connector13"
          d="m 778.83639,611.73463 0.58107,3.49556"
@@ -867,7 +947,8 @@
     <g
        id="command_group14"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)">
+       transform="matrix(0.264583,0,0,0.264583,9.3905,-19.3905)"
+       sodipodi:insensitive="true">
       <path
          id="command_connector14"
          d="m 787.59215,739.50994 -1.61393,-56.58708"
@@ -893,11 +974,13 @@
        cy="173.5569"
        rx="6.8791666"
        ry="2.0505209"
-       inkscape:label="cheek_L" />
+       inkscape:label="cheek_L"
+       sodipodi:insensitive="true" />
     <g
        id="command_group16"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583,0,0,0.264583,20.3707,-29.1801)">
+       transform="matrix(0.264583,0,0,0.264583,20.3707,-29.1801)"
+       sodipodi:insensitive="true">
       <path
          id="command_connector16"
          d="m 577.66423,767.06462 -18.71194,-0.34085"
@@ -919,7 +1002,8 @@
     <g
        id="command_group15"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583,0,0,0.264583,-0.930805,-9.8655)">
+       transform="matrix(0.264583,0,0,0.264583,-0.930805,-9.8655)"
+       sodipodi:insensitive="true">
       <path
          id="command_connector15"
          d="m 568.14425,691.72151 19.53116,0.65843"
@@ -945,11 +1029,13 @@
        cy="173.5569"
        rx="6.8791666"
        ry="2.0505209"
-       inkscape:label="cheek_R" />
+       inkscape:label="cheek_R"
+       sodipodi:insensitive="true" />
     <g
        id="command_group18"
        inkscape:label="Ink/Stitch Command: Fill stitch ending position"
-       transform="matrix(0.264583,0,0,0.264583,18.2096,-28.6983)">
+       transform="matrix(0.264583,0,0,0.264583,18.2096,-28.6983)"
+       sodipodi:insensitive="true">
       <path
          id="command_connector18"
          d="m 802.37535,766.59526 -18.3562,-0.90311"
@@ -971,7 +1057,8 @@
     <g
        id="command_group17"
        inkscape:label="Ink/Stitch Command: Fill stitch starting position"
-       transform="matrix(0.264583,0,0,0.264583,1.71758,-10.2972)">
+       transform="matrix(0.264583,0,0,0.264583,1.71758,-10.2972)"
+       sodipodi:insensitive="true">
       <path
          id="command_connector17"
          d="m 779.51193,692.20448 15.78463,1.02634"
